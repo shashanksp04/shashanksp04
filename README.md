@@ -31,7 +31,7 @@ I'm Shashank Pratap Singh, a passionate Computer Science major with an Entrepren
 
 ## Resources
 - **Resume** :
-  - Want to know more about me, get a copy of my Resume from [here](https://github.com/shashanksp04/shashanksp04/files/13847667/Resume_Shashank_2023.pdf)
+  - Want to know more about me? get a copy of my Resume from [here](https://github.com/shashanksp04/shashanksp04/files/13847667/Resume_Shashank_2023.pdf)
 - **Cover Letter**
   - Grab a copy of the Cover Letter from [here](https://github.com/shashanksp04/shashanksp04/files/13847668/Cover.Letter.pdf)
 
