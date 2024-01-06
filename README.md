@@ -22,6 +22,13 @@
 - **Certifications:** SQL & PostgreSQL for Beginners, Python Complete Course For Python Beginners
 
 ## 🚀 Projects
+- **Mars Snap** (November 2023)
+  - an Android app showcasing stunning pictures using API of NASA's Curiosity Rover. 📸🪐
+  - 🌐 RecyclerView with scrollable Mars images.
+  - 🎨 Customized and personalized themes using themes.xml.
+  - 🎉 Use of custom-downloadable font with personalized style.
+  - Users embark on a journey to the Red Planet, each scroll revealing a new snapshot of Mars' enchanting landscapes! 🚀✨
+ 
 - **UniConnect, PennApps XXIV** (September 2023)
   - Top 8 General Hacks, enhancing university life through a connected platform.
   - Utilized HTML, CSS, and JavaScript for front-end development.
