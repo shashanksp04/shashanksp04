@@ -5,7 +5,7 @@
 
 ## 👨‍🎓 About Shashank
 Hello! 👋 Glad to see you here!!
-I'm Shashank Pratap Singh, a passionate Computer Science major with an Entrepeneurship minor at the University of Maryland, College Park. 🚀 My academic journey is fueled by a desire to explore the intersection of technology and innovation and coupled with practical experiences it reflects my commitment to innovative solutions and collaborative learning. 💡 I thrive on challenges, from delving into complex coding projects to leading discussions as a Teaching Assistant, always aiming to continuously hone my skills to contribute to cutting-edge developments. My journey is not just about code; it's about creating, collaborating, and leaving a mark on the ever-evolving landscape of technology.
+I'm Shashank Pratap Singh, a passionate Computer Science major with an Entrepreneurship minor at the University of Maryland, College Park. 🚀 My academic journey is fueled by a desire to explore the intersection of technology and innovation and coupled with practical experiences it reflects my commitment to innovative solutions and collaborative learning. 💡 I thrive on challenges, from delving into complex coding projects to leading discussions as a Teaching Assistant, always aiming to continuously hone my skills to contribute to cutting-edge developments. My journey is not just about code; it's about creating, collaborating, and leaving a mark on the ever-evolving landscape of technology.
 
 ## 🎓 Education
 - **University of Maryland, College Park (UMD)**
