@@ -30,8 +30,10 @@ I'm Shashank Pratap Singh, a passionate Computer Science major with an Entrepren
   - Implemented database queries using PostgreSQL for an ATM replica
 
 ## Resources
-- [**Resume**]([Resume_Shashank_2023.pdf](https://github.com/shashanksp04/shashanksp04/files/13847667/Resume_Shashank_2023.pdf))
-- [**Cover Letter**][Cover Letter.pdf](https://github.com/shashanksp04/shashanksp04/files/13847668/Cover.Letter.pdf)
+- **Resume** :
+  - Want to know more about me, get a copy of my Resume from [here](https://github.com/shashanksp04/shashanksp04/files/13847667/Resume_Shashank_2023.pdf)
+- **Cover Letter**
+  - Grab a copy of the Cover Letter from [here](https://github.com/shashanksp04/shashanksp04/files/13847668/Cover.Letter.pdf)
 
 ##
 Feel free to reach out for collaboration or discussions! 🚀
