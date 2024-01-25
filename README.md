@@ -41,7 +41,7 @@
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? get a copy of my Resume from [here](https://github.com/shashanksp04/shashanksp04/files/14052462/RESUME.SHASHANK.2024.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/shashanksp04/shashanksp04/files/14052462/RESUME.SHASHANK.2024.pdf)
 
 - **Cover Letter**
   - Grab a copy of the Cover Letter from [here](https://github.com/shashanksp04/shashanksp04/files/14052467/Cover.Letter.pdf)
