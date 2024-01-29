@@ -36,6 +36,9 @@
 - **The Shell, CMSC-216 Assignment** (Summer 2023)
   - Implemented shell scripting concepts with a focus on readability and maintainability.
 
+- **Circuit Chaos, BitCamp 2023** (April 2023)
+  - An interactive and visually captivating game frontend developed as part of Bitcamp 2023. Built using HTML/CSS  
+
 - **TransactEase, Personal Project** (February 2023)
   - Implemented database queries using PostgreSQL for an ATM replica
 
