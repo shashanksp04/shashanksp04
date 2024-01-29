@@ -17,7 +17,7 @@
   - Cumulative GPA: 3.93/4.0
 
 ## 💻 Skills
-- **Technical Skills:** Java (Advanced), C (+ Linux), oCaml, SQL, Python (Intermediate), HTML, CSS & JavaScript (Beginner)
+- **Technical Skills:** Java (Advanced), C (+ Linux), oCaml, SQL, Python (Intermediate), HTML, CSS & JavaScript (Intermediate), Web Development with JavaScript, Android Development with Kotlin, Node.js
 - **Tools:** Android Studio IDE, VS Code, Git, PostgreSQL
 - **Certifications:** SQL & PostgreSQL for Beginners, Python Complete Course For Python Beginners
 
