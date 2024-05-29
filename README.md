@@ -22,6 +22,12 @@
 - **Certifications:** SQL & PostgreSQL for Beginners, Python Complete Course For Python Beginners
 
 ## 🚀 Projects
+
+- **CMSC396H** (January 2023 - May 2023)
+  - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
+  - In this mini-research project we worked on identifying how the information on reddit influences student's decision on important aspects of student life, primarily focusing on academics and housing.
+  - I worked on writing a Python-code which uses the Python Reddit API Wrapper (PRAW) to extract reddit posts from r/UMD related to academics and housing.
+  - The Python-code gives out a semi-HTML file, where there multiple sections. Each represents a post from r/UMD and includes imporatant details about the post like Title, main text, most popular and unpopular comments to that post and how many upvotes/downvotes they received.
 - **Mars Snap** (November 2023)
   - an Android app showcasing stunning pictures using API of NASA's Curiosity Rover. 📸🪐
   - 🌐 RecyclerView with scrollable Mars images.
