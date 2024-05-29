@@ -23,11 +23,18 @@
 
 ## 🚀 Projects
 
-- **CMSC396H** (January 2023 - May 2023)
+- **CMSC396H** (January 2024 - May 2024)
   - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
   - In this mini-research project we worked on identifying how the information on reddit influences student's decision on important aspects of student life, primarily focusing on academics and housing.
   - I worked on writing a Python-code which uses the Python Reddit API Wrapper (PRAW) to extract reddit posts from r/UMD related to academics and housing.
   - The Python-code gives out a semi-HTML file, where there multiple sections. Each represents a post from r/UMD and includes imporatant details about the post like Title, Main Text, Most Popular and Unpopular Comments to that post and how many Upvotes/Downvotes they received.
+  
+- **CMSC320 Final Project** (January 2024 - May 2024)
+  - A Data-Science project which predicts the overall rating of a soccer player, leveraging the player-attributes encapsulated in the dataset, thus shedding light on the intricate dynamics of player roles in soccer.
+  - Vedant Gawande, Jai Bobal, and I collaborated on this project using the knowledge we gained in CMSC320 under professor [Dr. Fardina Alam](https://www.fardinafathmiulalam.com/)
+  - This project was coded in google colab using Pandas and related libraries. HTML was used for hosting the information on github page.
+  - My contribution involved the initial brainstorming of the project idea, working in the initial phases of the project with data curation, preprocessing and EDA analysis, helping with thought process and code for the various hypotheses tests in the EDA section. Further contributed to writing the code for the ML algorithm design/development and worked on the overall structuring of the published html document.
+
 - **Mars Snap** (November 2023)
   - an Android app showcasing stunning pictures using API of NASA's Curiosity Rover. 📸🪐
   - 🌐 RecyclerView with scrollable Mars images.
@@ -41,12 +48,15 @@
 
 - **The Shell, CMSC-216 Assignment** (Summer 2023)
   - Implemented shell scripting concepts with a focus on readability and maintainability.
+  - The project was coded in C
 
 - **Circuit Chaos, BitCamp 2023** (April 2023)
-  - An interactive and visually captivating game frontend developed as part of Bitcamp 2023. Built using HTML/CSS  
+  - An interactive and visually captivating game frontend developed as part of Bitcamp 2023.
+  - Built using HTML/CSS  
 
 - **TransactEase, Personal Project** (February 2023)
   - Implemented database queries using PostgreSQL for an ATM replica
+  - Java was used in the backEnd and PostGreSQL for the database
 
 ## Resources
 - **Resume** :
