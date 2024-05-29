@@ -14,7 +14,7 @@
 - **University of Maryland, College Park (UMD)**
   - Bachelor of Science, Computer Science (Expected May 2025)
   - Minor, Technology Entrepreneurship and Corporate Innovation (Expected May 2025)
-  - Cumulative GPA: 3.92/4.0
+  - Cumulative GPA: 3.876/4.0
 
 ## 💻 Skills
 - **Technical Skills:** Java (Advanced), C (+ Linux), oCaml, SQL, Python (Intermediate), HTML, CSS & JavaScript (Intermediate), Web Development with JavaScript, Android Development with Kotlin, Node.js
