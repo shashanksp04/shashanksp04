@@ -23,7 +23,7 @@
     - Electronic Arts - Software Engineering Job Simulation
     - Postman API Fundamentals Student Expert
     - Hewlett Packard Enterprise - Software Engineering Job Simulation
-    - React:Building a full-Stack website
+    - React: Building a full-Stack website
     - Android-101
     - SQL & PostgreSQL for Beginners
     - Python Complete Course For Python Beginners
