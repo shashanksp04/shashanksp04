@@ -17,9 +17,16 @@
   - Cumulative GPA: 3.876/4.0
 
 ## 💻 Skills
-- **Technical Skills:** Java (Advanced), C (+ Linux), oCaml, SQL, Python (Intermediate), HTML, CSS & JavaScript (Intermediate), Web Development with JavaScript, Android Development with Kotlin, Node.js
+- **Technical Skills:** Java, C (+ Linux), oCaml, SQL, Python, HTML, CSS & JavaScript, Web Development with JavaScript, Android Development with Kotlin, Node.js, React.js
 - **Tools:** Android Studio IDE, VS Code, Git, PostgreSQL
-- **Certifications:** SQL & PostgreSQL for Beginners, Python Complete Course For Python Beginners
+- **Certifications:**
+    - Electronic Arts - Software Engineering Job Simulation
+    - Postman API Fundamentals Student Expert
+    - Hewlett Packard Enterprise - Software Engineering Job Simulation
+    - React:Building a full-Stack website
+    - Android-101
+    - SQL & PostgreSQL for Beginners
+    - Python Complete Course For Python Beginners
 
 ## 🚀 Projects
 
@@ -60,7 +67,8 @@
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/shashanksp04/shashanksp04/files/14893927/Resume_Shashank_2024.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16103030/Resume_Shashank_2024.pdf)
+
 
 
 
