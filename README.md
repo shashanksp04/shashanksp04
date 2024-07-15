@@ -34,7 +34,7 @@
   - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
   - In this mini-research project we worked on identifying how the information on reddit influences student's decision on important aspects of student life, primarily focusing on academics and housing.
   - I worked on writing a Python-code which uses the Python Reddit API Wrapper (PRAW) to extract reddit posts from r/UMD related to academics and housing.
-  - The Python-code gives out a semi-HTML file, comprising multiple sections. Each represents a post from r/UMD and includes imporatant details about the post like Title, Main Text, Most Popular and Unpopular Comments to that post and how many Upvotes/Downvotes they received.
+  - The Python-code gives out a semi-HTML file, comprising multiple sections. Each represents a post from r/UMD and includes important details about the post like Title, Main Text, Most Popular and Unpopular Comments to that post and how many Upvotes/Downvotes they received.
   
 - **CMSC320 Final Project** (January 2024 - May 2024)
   - A Data-Science project which predicts the overall rating of a soccer player, leveraging the player-attributes encapsulated in the dataset, thus shedding light on the intricate dynamics of player roles in soccer.
