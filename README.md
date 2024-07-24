@@ -20,15 +20,21 @@
 - **Technical Skills:** Java, C (+ Linux), oCaml, SQL, Python, HTML, CSS & JavaScript, Web Development with JavaScript, Android Development with Kotlin, Node.js, React.js
 - **Tools:** Android Studio IDE, VS Code, Git, PostgreSQL
 - **Certifications:**
-    - Electronic Arts - Software Engineering Job Simulation
-    - Postman API Fundamentals Student Expert
-    - Hewlett Packard Enterprise - Software Engineering Job Simulation
-    - React: Building a full-Stack website
-    - Android-101
-    - SQL & PostgreSQL for Beginners
-    - Python Complete Course For Python Beginners
+    - Lyft Backend Software Engineering Simulation (July 2024)
+    - Electronic Arts - Software Engineering Job Simulation (July 2024)
+    - Postman API Fundamentals Student Expert (July 2024)
+    - Hewlett Packard Enterprise - Software Engineering Job Simulation (June 2024)
+    - React: Building a full-Stack website (June 2024) 
+    - Android-101 : Intro to App Development by Codepath (Novemeber 2023)
+    - Mastering Algorithms and Data Structures in Java (July 2024)
+    - SQL & PostgreSQL for Beginners (Jan 2023)
+    - Python Complete Course For Python Beginners (Jan 2023)
 
 ## 🚀 Projects
+
+- **Blogify** (June 2024)
+  - Blogify is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development.
+  - The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
 
 - **CMSC396H** (January 2024 - May 2024)
   - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
