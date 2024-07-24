@@ -32,42 +32,44 @@
 
 ## 🚀 Projects
 
-- **Blogify** (June 2024)
+- [**Blogify**](https://github.com/shashanksp04/Blogify) (June 2024)
   - Blogify is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development.
   - The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
 
-- **CMSC396H** (January 2024 - May 2024)
+- [**To Heed Or Not To Heed**](https://github.com/shashanksp04/To-Heed-Or-Not-To-Heed) (January 2024 - May 2024)
   - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
   - In this mini-research project we worked on identifying how the information on reddit influences student's decision on important aspects of student life, primarily focusing on academics and housing.
   - I worked on writing a Python-code which uses the Python Reddit API Wrapper (PRAW) to extract reddit posts from r/UMD related to academics and housing.
   - The Python-code gives out a semi-HTML file, comprising multiple sections. Each represents a post from r/UMD and includes important details about the post like Title, Main Text, Most Popular and Unpopular Comments to that post and how many Upvotes/Downvotes they received.
   
-- **CMSC320 Final Project** (January 2024 - May 2024)
+- [**Rating-Fusion**](https://github.com/shashanksp04/Rating-Fusion) (January 2024 - May 2024)
   - A Data-Science project which predicts the overall rating of a soccer player, leveraging the player-attributes encapsulated in the dataset, thus shedding light on the intricate dynamics of player roles in soccer.
   - Vedant Gawande, Jai Bobal, and I collaborated on this project using the knowledge we gained in CMSC320 under professor [Dr. Fardina Alam](https://www.fardinafathmiulalam.com/)
   - This project was coded in google colab using Pandas and related libraries. HTML was used for hosting the information on github page.
   - My contribution involved the initial brainstorming of the project idea, working in the initial phases of the project with data curation, preprocessing and EDA analysis, helping with thought process and code for the various hypotheses tests in the EDA section. Further contributed to writing the code for the ML algorithm design/development and worked on the overall structuring of the published html document.
 
-- **Mars Snap** (November 2023)
+- [**Mars Snap**](https://github.com/shashanksp04/Mars_Snap) (November 2023)
   - an Android app showcasing stunning pictures using API of NASA's Curiosity Rover. 📸🪐
   - 🌐 RecyclerView with scrollable Mars images.
   - 🎨 Customized and personalized themes using themes.xml.
   - 🎉 Use of custom-downloadable font with personalized style.
   - Users embark on a journey to the Red Planet, each scroll revealing a new snapshot of Mars' enchanting landscapes! 🚀✨
  
-- **UniConnect, PennApps XXIV** (September 2023)
-  - Top 8 General Hacks, enhancing university life through a connected platform.
+- [**UniConnect, PennApps XXIV**](https://github.com/shashanksp04/UniConnect) (September 2023)
+  - Top 8 General Hacks in PennApps XXIV 2023
+  - Focused on enhancing university life through a connected platform.
   - Utilized HTML, CSS, and JavaScript for front-end development.
 
-- **The Shell, CMSC-216 Assignment** (Summer 2023)
+- **The Shell** (Summer 2023)
+  - Built as a part of CMSC-216 project assignment in 2023.
   - Implemented shell scripting concepts with a focus on readability and maintainability.
   - The project was coded in C
 
-- **Circuit Chaos, BitCamp 2023** (April 2023)
+- [**Circuit Chaos, BitCamp 2023**](https://github.com/shashanksp04/Circuit-Chaos) (April 2023)
   - An interactive and visually captivating game frontend developed as part of Bitcamp 2023.
   - Built using HTML/CSS  
 
-- **TransactEase, Personal Project** (February 2023)
+- [**TransactEase, Personal Project**](https://github.com/shashanksp04/TransactEase) (February 2023)
   - Implemented database queries using PostgreSQL for an ATM replica
   - Java was used in the backEnd and PostGreSQL for the database
 
