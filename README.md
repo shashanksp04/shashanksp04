@@ -34,9 +34,9 @@
   - The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
 
 - **Mini-Dafny** (February 2024 - May 2024)
-  - Developed a mini-version of Dafny, a code verification language, by creating Syntax, Parser, and verifier using Haskell as a part of required coursework for the Programming Languages and Paradigms (CMSC433) Course at UMD
-  - Enhanced knowledge about Hoare Logic, and related topics like pretty printing, parsing, weakest preconditions and Z3
-  - Currently working on exploring the limitations of this project by trying to figure out ways to implement code-verifications of arrays using Hoare Logic and Z3
+  - Developed a mini-version of Dafny, a code verification language, by creating Syntax, Parser, and verifier using Haskell as a part of required coursework for the Programming Languages and Paradigms (CMSC433) Course at UMD. 
+  - Enhanced knowledge about Hoare Logic, and related topics like pretty printing, parsing, weakest preconditions and Z3.
+  - Currently working on exploring the limitations of this project by trying to figure out ways to implement code-verifications of arrays using Hoare Logic and Z3.
 
 - [**To Heed Or Not To Heed**](https://github.com/shashanksp04/To-Heed-Or-Not-To-Heed) (January 2024 - May 2024)
   - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
@@ -77,7 +77,8 @@
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16363953/Resume_Shashank_2024.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16531379/Resume_Shashank_2024.pdf)
+
  
   
 ##
