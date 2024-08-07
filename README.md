@@ -68,15 +68,17 @@
 
 - **The Shell** (Summer 2023)
   - Built as a part of CMSC-216 project assignment in 2023.
-  - Implemented shell scripting concepts with a focus on readability and maintainability.
-  - The project was coded in C
+  - Developed a solid understanding of shell scripting concepts and techniques. Implemented complex functionalities in the shell script, such as boolean operations, pipes, and file redirection and leveraged Unix syntax for familiar command-line interactions.
+  - Executed thorough test cases to verify the correctness of implemented features while applying coding standards and best practices for readability and maintainability.
+
 
 - [**Circuit Chaos, BitCamp 2023**](https://github.com/shashanksp04/Circuit-Chaos) (April 2023)
   - An interactive and visually captivating game frontend developed as part of Bitcamp 2023.
   - Built using HTML/CSS  
 
 - [**TransactEase, Personal Project**](https://github.com/shashanksp04/TransactEase) (February 2023)
-  - Implemented database queries using PostgreSQL for an ATM replica
+  - Designed an intuitive interface, using Java, for users to interact with the ATM with graceful error handling to provide user-friendly feedback.
+  - Implemented database queries, using PostgreSQL, to manage account creation, updates, and transactions, worked on creating secure mechanisms for account creation and PIN changes.
   - Java was used in the backEnd and PostGreSQL for the database
 
 ## Resources
