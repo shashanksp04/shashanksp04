@@ -17,13 +17,17 @@
 - **Technical Skills:** Java, C (+ Linux), oCaml, SQL, Python, HTML, CSS & JavaScript, Web Development with JavaScript, Android Development with Kotlin, Node.js, React.js
 - **Tools:** Android Studio IDE, VS Code, Git, PostgreSQL
 - **Certifications:**
-    - Lyft Backend Software Engineering Simulation (July 2024)
-    - Electronic Arts - Software Engineering Job Simulation (July 2024)
+    - SWE Experieneces
+      - Wells Fargo Software Engineering Simulation (August 2024)
+      - Lyft Backend Software Engineering Simulation (July 2024)
+      - Electronic Arts - Software Engineering Job Simulation (July 2024)
+      - Hewlett Packard Enterprise - Software Engineering Job Simulation (June 2024)
+    - CodeSignal Certifications
+      - Data Science with Python (August 2024)
+      - Mastering Algorithms and Data Structures in Java (July 2024)
     - Postman API Fundamentals Student Expert (July 2024)
-    - Hewlett Packard Enterprise - Software Engineering Job Simulation (June 2024)
     - React: Building a full-Stack website (June 2024) 
     - Android-101 : Intro to App Development by Codepath (Novemeber 2023)
-    - Mastering Algorithms and Data Structures in Java (July 2024)
     - SQL & PostgreSQL for Beginners (Jan 2023)
     - Python Complete Course For Python Beginners (Jan 2023)
 
