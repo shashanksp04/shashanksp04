@@ -33,6 +33,11 @@
   - Blogify is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development.
   - The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
 
+- **Mini-Dafny** (February 2024 - May 2024)
+  - Developed a mini-version of Dafny, a code verification language, by creating Syntax, Parser, and verifier using Haskell as a part of required coursework for the Programming Languages and Paradigms (CMSC433) Course at UMD
+  - Enhanced knowledge about Hoare Logic, and related topics like pretty printing, parsing, weakest preconditions and Z3
+  - Currently working on exploring the limitations of this project by trying to figure out ways to implement code-verifications of arrays using Hoare Logic and Z3
+
 - [**To Heed Or Not To Heed**](https://github.com/shashanksp04/To-Heed-Or-Not-To-Heed) (January 2024 - May 2024)
   - Worked on a mini-research project as a part of required coursework for the CMSC396 Honors Seminar Course at UMD, with batchmates Aniruddh Mutnuru, Tanay Shah, and Abhi Mukherjee.
   - In this mini-research project we worked on identifying how the information on reddit influences student's decision on important aspects of student life, primarily focusing on academics and housing.
