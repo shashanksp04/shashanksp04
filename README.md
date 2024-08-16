@@ -83,7 +83,8 @@
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16531379/Resume_Shashank_2024.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16637562/Resume_Shashank_2024.pdf)
+
 
  
   
