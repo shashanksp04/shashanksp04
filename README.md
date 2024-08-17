@@ -1,7 +1,7 @@
 # 👨‍💻 Shashank Pratap Singh
 
 📍 Rockville, MD | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
-🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://portfolium.com/MeetShashank)
+🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://shashanksp04.github.io/)
 
 ## 👨‍🎓 About Shashank
   Hello! 👋 Glad to see you here!!
@@ -83,7 +83,8 @@
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16637562/Resume_Shashank_2024.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16646212/Resume_Shashank_2024.pdf)
+
 
 
  
