@@ -9,8 +9,8 @@
 
 ## 🎓 Education
 - **University of Maryland, College Park (UMD)**
-  - Bachelor of Science, Computer Science (Expected May 2025)
-  - Minor, Technology Entrepreneurship and Corporate Innovation (Expected May 2025)
+  - Bachelor of Science, Computer Science 
+  - Minor, Technology Entrepreneurship and Corporate Innovation 
   - Cumulative GPA: 3.881/4.0
 
 ## 💻 Skills
@@ -83,7 +83,8 @@
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/16646212/Resume_Shashank_2024.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/18631007/Resume_Shashank_2025.pdf)
+
 
 
 
