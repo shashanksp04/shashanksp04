@@ -33,6 +33,15 @@
 
 ## 🚀 Projects
 
+- [**CraveSwipe**](https://github.com/shashanksp04/CraveSwipe)(Jan 2025 - May 2025)
+  - Co-developed SwipeBite, a mobile app that brings the simplicity of Tinder-style swiping to food discovery, as part of a collaborative project focused on intuitive UI/UX design and smart recommendation systems.
+  - Designed core functionality to let users browse nearby restaurants one at a time, swiping right to like and left to skip, with real-time updates to personalized recommendations based on interaction history.
+  - Key features include:
+    - Preference setup screen for cuisine and price range selection
+    - Swipe interface showing restaurant details (image, cuisine, rating, price, location)
+    - Favorites view combining interactive map and detailed list
+    - Clean, playful UI with responsive gestures and polished visual design
+
 - [**Blogify**](https://github.com/shashanksp04/Blogify) (June 2024)
   - Blogify is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development.
   - The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
