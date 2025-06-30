@@ -4,8 +4,7 @@
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://shashanksp04.github.io/)
 
 ## 👨‍🎓 About Shashank
-  Hello! 👋 Glad to see you here!!
-  I'm Shashank Pratap Singh, a passionate Computer Science major with an Entrepreneurship minor at the University of Maryland, College Park.My academic journey is fueled by a desire to explore the intersection of technology and innovation and coupled with practical experiences it reflects my commitment to innovative solutions and collaborative learning. I thrive on challenges, from delving into complex coding projects to leading discussions as a Teaching Assistant, always aiming to continuously hone my skills to contribute to cutting-edge developments. My journey is not just about code; it's about creating, collaborating, and leaving a mark on the ever-evolving landscape of technology.
+Hello! I’m Shashank Pratap Singh, a Computer Science graduate from the University of Maryland and an incoming Master’s student in Computer Science at the University of Illinois Urbana-Champaign. With a strong foundation in software development and a passion for leveraging emerging technologies like AI to solve real-world problems in Fintech, Edtech, and Agrotech, I thrive at the intersection of tech and innovation. My journey—from serving as President of the International Student Advisory Board to working as a Teaching Assistant and earning honors like Omicron Delta Kappa—reflects a commitment to leadership, collaboration, and impact. As I step into this next chapter at UIUC, I’m actively seeking opportunities to contribute to forward-thinking teams, apply my skills, and build solutions that create inclusive and sustainable change.
 
 ## 🎓 Education
 - **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2026)**
