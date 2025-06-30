@@ -8,7 +8,9 @@
   I'm Shashank Pratap Singh, a passionate Computer Science major with an Entrepreneurship minor at the University of Maryland, College Park.My academic journey is fueled by a desire to explore the intersection of technology and innovation and coupled with practical experiences it reflects my commitment to innovative solutions and collaborative learning. I thrive on challenges, from delving into complex coding projects to leading discussions as a Teaching Assistant, always aiming to continuously hone my skills to contribute to cutting-edge developments. My journey is not just about code; it's about creating, collaborating, and leaving a mark on the ever-evolving landscape of technology.
 
 ## 🎓 Education
-- **University of Maryland, College Park (UMD)**
+- **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2026) **
+  - Master of Computer Science, Computer Science 
+- **University of Maryland, College Park (UMD) (2022 - 2025)**
   - Bachelor of Science, Computer Science 
   - Minor, Technology Entrepreneurship and Corporate Innovation 
   - Cumulative GPA: 3.845/4.0
