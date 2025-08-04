@@ -93,7 +93,8 @@ Hello! I’m Shashank Pratap Singh, a Computer Science graduate from the Univers
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/20983853/Resume_Shashank.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/21570597/Resume_Shashank.pdf)
+
 
 
 
