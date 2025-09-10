@@ -4,7 +4,7 @@
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://shashanksp04.github.io/)
 
 ## 👨‍🎓 About Shashank
-Hello! I’m Shashank Pratap Singh, a Computer Science graduate from the University of Maryland and an incoming Master’s student in Computer Science at the University of Illinois Urbana-Champaign. With a strong foundation in software development and a passion for leveraging emerging technologies like AI to solve real-world problems in Fintech, Edtech, and Agrotech, I thrive at the intersection of tech and innovation. My journey—from serving as President of the International Student Advisory Board to working as a Teaching Assistant and earning honors like Omicron Delta Kappa—reflects a commitment to leadership, collaboration, and impact. As I step into this next chapter at UIUC, I’m actively seeking opportunities to contribute to forward-thinking teams, apply my skills, and build solutions that create inclusive and sustainable change.
+Hello! I’m Shashank Pratap Singh, a current Master’s in Computer Science student at the University of Illinois Urbana-ChampaignComputer Science and a graduate from the University of Maryland. I bring hands-on experience in full-stack, mobile, and backend development, with a particular focus on building scalable, user-centric applications. From developing Android and React apps to designing automation workflows using tools like Zapier, Airtable, and Llama 3, I enjoy solving real-world problems using technology. My leadership and mentorship experiences—as President of the International Student Advisory Board and a Teaching Assistant—reflect my commitment to collaboration, innovation, and creating meaningful impact. I’m passionate about contributing to forward-thinking teams, particularly in domains like Fintech, Edtech, and Agrotech, where technology can empower people and communities.
 
 ## 🎓 Education
 - **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2026)**
@@ -34,6 +34,8 @@ Hello! I’m Shashank Pratap Singh, a Computer Science graduate from the Univers
 
 ## 🚀 Projects
 
+- [**Networking Automation**](August 2025 - Present)
+  - Built an AI-driven automation system generating personalized recruiter outreach emails using Llama 3, n8n workflows, and Google Drive. Reduced networking effort from hours to minutes while maintaining professional quality.
 - [**CraveSwipe**](https://github.com/shashanksp04/CraveSwipe)(Jan 2025 - May 2025)
   - Co-developed CraveSwipe, a mobile app that brings the simplicity of Tinder-style swiping to food discovery, as part of a collaborative project focused on intuitive UI/UX design and smart recommendation systems.
   - Designed core functionality to let users browse nearby restaurants one at a time, swiping right to like and left to skip, with real-time updates to personalized recommendations based on interaction history.
@@ -93,7 +95,8 @@ Hello! I’m Shashank Pratap Singh, a Computer Science graduate from the Univers
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/21570597/Resume_Shashank.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/22247787/Resume_Shashank.pdf)
+
 
 
 
