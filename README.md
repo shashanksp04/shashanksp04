@@ -46,9 +46,11 @@ Hello! I’m Shashank Pratap Singh, a current Master’s in Computer Science stu
     - Clean, playful UI with responsive gestures and polished visual design
 
 - [**Blogify**](https://github.com/shashanksp04/Blogify) (June 2024)
-  - Blogify is a full-stack blogging website created as a part of a LinkedIn Learning course. It serves as a practice project to enhance my skills in full-stack development.
-  - The website integrates a front-end built with React.js and a back-end developed using JavaScript and MongoDB, utilizing the MERN stack.
-
+  - A modern, full-stack blogging website built using the MERN stack (MongoDB, Express.js, React.js, Node.js)
+  - Enables users to create, edit, delete, and view blog posts with full CRUD functionality
+  - User authentication and authorization for secure access and content management
+  - Designed with a responsive and intuitive UI for seamless experience across devices
+  
 - **Mini-Dafny** (February 2024 - May 2024)
   - Developed a mini-version of Dafny, a code verification language, by creating Syntax, Parser, and verifier using Haskell as a part of required coursework for the Programming Languages and Paradigms (CMSC433) Course at UMD. 
   - Enhanced knowledge about Hoare Logic, and related topics like pretty printing, parsing, weakest preconditions and Z3.
