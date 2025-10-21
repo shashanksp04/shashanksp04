@@ -36,7 +36,7 @@ Hello! I’m Shashank Pratap Singh, a current Master’s in Computer Science stu
 
 - [**Networking Automation**]()(August 2025 - Present)
   - Built an AI-driven automation system generating personalized recruiter outreach emails using Llama 3, n8n workflows, and Google Drive. Reduced networking effort from hours to minutes while maintaining professional quality.
-- [**CraveSwipe**](https://github.com/shashanksp04/CraveSwipe)(Jan 2025 - May 2025)
+- [**CraveSwipe**]([https://github.com/shashanksp04/CraveSwipe](https://github.com/shashanksp04/CraveSwipe-App))(Jan 2025 - May 2025)
   - Co-developed CraveSwipe, a mobile app that brings the simplicity of Tinder-style swiping to food discovery, as part of a collaborative project focused on intuitive UI/UX design and smart recommendation systems.
   - Designed core functionality to let users browse nearby restaurants one at a time, swiping right to like and left to skip, with real-time updates to personalized recommendations based on interaction history.
   - Key features include:
