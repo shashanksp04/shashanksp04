@@ -34,7 +34,7 @@ Hello! I’m Shashank Pratap Singh, a current Master’s in Computer Science stu
 
 ## 🚀 Projects
 
-- [**Meta-Mirage**](https://github.com/shashanksp04/Meta-Mirage) (October 2025 - Present)
+- [**Meta-Mirage**](https://github.com/shashanksp04/Meta-Mirage/tree/agent-branch) (October 2025 - Present)
   - Building a RAG agent with confidence-based retrieval. Retrieves information from a vector database, evaluates confidence, and performs web search when needed to gather additional context for queries.
   - Enhancing Query pipeline by integrating it with LLM inference workflows to automatically enhance user queries with retrieved context before sending them to test models, improving answer quality.
   - Engineering multi-source knowledge ingestion. Supports ingesting content from PDFs and web pages into a ChromaDB vector database with deduplication, chunking, and metadata filtering for efficient retrieval.
