@@ -34,16 +34,16 @@ Hello! I’m Shashank Pratap Singh, a current Master’s in Computer Science stu
 
 ## 🚀 Projects
 
-- [**Meta-Mirage**](https://github.com/shashanksp04/Meta-Mirage)(October 2025 - Present)
+- [**Meta-Mirage**](https://github.com/shashanksp04/Meta-Mirage) (October 2025 - Present)
   - Building a RAG agent with confidence-based retrieval. Retrieves information from a vector database, evaluates confidence, and performs web search when needed to gather additional context for queries.
   - Enhancing Query pipeline by integrating it with LLM inference workflows to automatically enhance user queries with retrieved context before sending them to test models, improving answer quality.
   - Engineering multi-source knowledge ingestion. Supports ingesting content from PDFs and web pages into a ChromaDB vector database with deduplication, chunking, and metadata filtering for efficient retrieval.
   
-- [**Networking Automation**]()(August 2025 - September 2025)
+- [**Networking Automation**]() (August 2025 - September 2025)
   - Built an AI-driven automation system generating personalized recruiter outreach emails using Llama 3, n8n workflows, and Google Drive.
   - Reduced networking effort from hours to minutes while maintaining professional quality.
 
-- [**CraveSwipe**]([https://github.com/shashanksp04/CraveSwipe](https://github.com/shashanksp04/CraveSwipe-App))(Jan 2025 - May 2025)
+- [**CraveSwipe**](https://github.com/shashanksp04/CraveSwipe-App) (Jan 2025 - May 2025)
   - Co-developed CraveSwipe, a mobile app that brings the simplicity of Tinder-style swiping to food discovery, as part of a collaborative project focused on intuitive UI/UX design and smart recommendation systems.
   - Designed core functionality to let users browse nearby restaurants one at a time, swiping right to like and left to skip, with real-time updates to personalized recommendations based on interaction history.
   - Key features include:
