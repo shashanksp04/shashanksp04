@@ -1,10 +1,20 @@
 # 👨‍💻 Shashank Pratap Singh
 
-📍 Rockville, MD | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
+📍 Chicago, IL | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://shashanksp04.github.io/)
 
 ## 👨‍🎓 About Shashank
-Hello! I’m Shashank Pratap Singh, a current Master’s in Computer Science student at the University of Illinois Urbana-ChampaignComputer Science and a graduate from the University of Maryland. I bring hands-on experience in full-stack, mobile, and backend development, with a particular focus on building scalable, user-centric applications. From developing Android and React apps to designing automation workflows using tools like Zapier, Airtable, and Llama 3, I enjoy solving real-world problems using technology. My leadership and mentorship experiences—as President of the International Student Advisory Board and a Teaching Assistant—reflect my commitment to collaboration, innovation, and creating meaningful impact. I’m passionate about contributing to forward-thinking teams, particularly in domains like Fintech, Edtech, and Agrotech, where technology can empower people and communities.
+Hi, I’m Shashank Pratap Singh, a Master’s student in Computer Science at the University of Illinois Urbana-Champaign, and I previously completed my Bachelor’s in Computer Science at the University of Maryland with a 3.845 GPA. 
+
+Currently, I work as a Developer Intern at LvlUp Ventures, where I design and automate cross-platform workflows using JavaScript, Zapier, Airtable, and APIs, building scalable integrations that streamline operations and reduce manual work across venture programs and internal systems. 
+
+I’m particularly interested in the Agentic AI domain, and I currently serve as a Research Lead for the MetaMIRAGE project at UIUC, where I’m developing a metadata-aware autonomous web agent for retrieval-augmented visual reasoning. Our system improved identification accuracy from 51.04% to 75.93% by integrating structured metadata into the reasoning pipeline. I’m also extending the agentic RAG architecture using the Google Agent Development Kit, adding web search capabilities, increasing agent autonomy, and conducting multi-model evaluations across Qwen, LLaMA, and Mistral to analyze reasoning failures and improve system robustness.
+
+My broader experience spans full-stack development, AI systems, and automation. I’ve built MERN stack platforms, Android applications with Kotlin, AI-driven automation systems using Llama 3 and n8n, and retrieval-augmented generation pipelines that combine vector database retrieval with web search to improve response quality. I’ve also worked on program verification research by extending the Mini-Dafny project with Hoare-logic-based verification for arrays. 
+
+Beyond technical work, I’ve served as an Undergraduate Teaching Assistant at UMD, helping students understand programming languages, algorithms, and data structures through discussions and office hours. 
+
+Overall, I’m passionate about building scalable AI systems and intelligent agents that solve real-world problems, particularly in areas like Fintech, EdTech, and Agrotech, and I’m excited to contribute to teams working on agentic AI, LLM systems, and next-generation autonomous software.
 
 ## 🎓 Education
 - **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2027)**
