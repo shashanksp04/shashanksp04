@@ -48,6 +48,11 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
   - Building a RAG agent with confidence-based retrieval. Retrieves information from a vector database, evaluates confidence, and performs web search when needed to gather additional context for queries.
   - Enhancing Query pipeline by integrating it with LLM inference workflows to automatically enhance user queries with retrieved context before sending them to test models, improving answer quality.
   - Engineering multi-source knowledge ingestion. Supports ingesting content from PDFs and web pages into a ChromaDB vector database with deduplication, chunking, and metadata filtering for efficient retrieval.
+
+- [**Illini2Illini — UIUC Short-Term Housing Marketplace**](https://github.com/shashanksp04/Illini2Illini) (March 2026 - March 2026)
+  - Built a Next.js + TypeScript full-stack marketplace for UIUC students using Supabase Auth, PostgreSQL, Prisma ORM, and Supabase Storage, implementing server-side access control and domain-driven API architecture.
+  - Implemented hybrid public/verified visibility strategies, server-side authorization gates, and structured listing models (search, filters, lifecycle states: ACTIVE / TAKEN / EXPIRED / DELETED) to maintain privacy while preserving discoverability.
+  - Designed a migration-friendly architecture separating identity (Supabase Auth) from domain models, with helper-layer abstractions for storage, search, and auth enforcement, enabling future extensibility without major refactors.
   
 - [**Networking Automation**]() (August 2025 - September 2025)
   - Built an AI-driven automation system generating personalized recruiter outreach emails using Llama 3, n8n workflows, and Google Drive.
