@@ -53,6 +53,11 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
   - Built a Next.js + TypeScript full-stack marketplace for UIUC students using Supabase Auth, PostgreSQL, Prisma ORM, and Supabase Storage, implementing server-side access control and domain-driven API architecture.
   - Implemented hybrid public/verified visibility strategies, server-side authorization gates, and structured listing models (search, filters, lifecycle states: ACTIVE / TAKEN / EXPIRED / DELETED) to maintain privacy while preserving discoverability.
   - Designed a migration-friendly architecture separating identity (Supabase Auth) from domain models, with helper-layer abstractions for storage, search, and auth enforcement, enabling future extensibility without major refactors.
+
+- [**LabelPilot — Automatic Gmail Labeling Chrome Extension**](https://github.com/shashanksp04/gmail-label-ai) (February 2026 - February 2026)
+  - Designed a hybrid email classification pipeline combining deterministic rule-based matching with an optional AI fallback to automatically assign Gmail labels to incoming emails.
+  - Implemented multi-signal label scoring using subject similarity, sender name/domain matching, snippet similarity, historical sender-label mappings, and thread context to compute confidence scores for candidate labels.
+  - Built a Manifest V3 Chrome extension architecture with a background service worker that authenticates via OAuth2, polls Gmail using the Gmail REST API, processes email metadata, and applies labels automatically through the messages.modify endpoint.
   
 - [**Networking Automation**]() (August 2025 - September 2025)
   - Built an AI-driven automation system generating personalized recruiter outreach emails using Llama 3, n8n workflows, and Google Drive.
