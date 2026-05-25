@@ -1,6 +1,6 @@
 # 👨‍💻 Shashank Pratap Singh
 
-📍 Chicago, IL | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
+📍 San Jose, CA | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://shashanksp04.github.io/)
 
 ## 👨‍🎓 About Shashank
