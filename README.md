@@ -133,7 +133,8 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/28200571/Resume_Shashank_2026.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/28238015/Resume_Shashank_2026.pdf)
+
 
 
 
