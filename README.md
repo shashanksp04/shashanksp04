@@ -1,7 +1,7 @@
 # 👨‍💻 Shashank Pratap Singh
 
 📍 San Jose, CA | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
-🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) | 💼 [Portfolio](https://shashanksp04.github.io/)
+🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) |
 
 ## 👨‍🎓 About Shashank
 Hi, I’m Shashank Pratap Singh, a Master’s student in Computer Science at the University of Illinois Urbana-Champaign, and I previously completed my Bachelor’s in Computer Science at the University of Maryland with a 3.845 GPA.
