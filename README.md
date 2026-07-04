@@ -54,6 +54,16 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
 
 ## 🚀 Projects
 
+- [**Converge**]() (June 2026)
+  - Designed an autonomous A/B-testing agent focused on persona setup, enabling simulated user evaluation of website variants.
+  - Built Playwright-based interaction recording and Fireworks AI persona generation to create realistic testing workflows.
+  - Helped run scalable persona simulations on Modal for parallel evaluation of website variants.
+
+- [**CallTree**]() (June 2026)
+  - Built an AI sales-coaching platform that helps reps identify where deals changed direction and practice stronger responses.
+  - Developed the backend audio pipeline using Python/librosa, MP3 upload handling, diarized transcription, and GPT-generated call trees.
+  - Integrated ElevenLabs-powered dynamic voice/TTS for mock-call practice and guided walkthrough narration.
+
 - [**Meta-Mirage**](https://github.com/shashanksp04/MIRAGE-RAG) (September 2025 - May 2026)
   - Building a RAG agent with confidence-based retrieval. Retrieves information from a vector database, evaluates confidence, and performs web search when needed to gather additional context for queries.
   - Enhancing Query pipeline by integrating it with LLM inference workflows to automatically enhance user queries with retrieved context before sending them to test models, improving answer quality.
@@ -133,7 +143,8 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/28239764/Resume_Shashank_2026.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/29663349/Resume_Shashank_2026.pdf)
+
 
 
 
