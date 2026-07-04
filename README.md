@@ -54,15 +54,17 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
 
 ## 🚀 Projects
 
-- [**Converge**]() (June 2026)
-  - Designed an autonomous A/B-testing agent focused on persona setup, enabling simulated user evaluation of website variants.
-  - Built Playwright-based interaction recording and Fireworks AI persona generation to create realistic testing workflows.
-  - Helped run scalable persona simulations on Modal for parallel evaluation of website variants.
-
 - [**CallTree**]() (June 2026)
+  - Developed CallTree as part of the AI Growth Hackathon by Orange Slice, a YC-backed hackathon focused on AI-powered growth and GTM workflows.
   - Built an AI sales-coaching platform that helps reps identify where deals changed direction and practice stronger responses.
   - Developed the backend audio pipeline using Python/librosa, MP3 upload handling, diarized transcription, and GPT-generated call trees.
   - Integrated ElevenLabs-powered dynamic voice/TTS for mock-call practice and guided walkthrough narration.
+
+- [**Converge**]() (June 2026)
+  - Built Converge as part of the HUD Frontier / RSI RL Environments Hackathon, a YC-backed hackathon focused on frontier reinforcement learning environments. 
+  - Designed an autonomous A/B-testing agent focused on persona setup, enabling simulated user evaluation of website variants.
+  - Built Playwright-based interaction recording and Fireworks AI persona generation to create realistic testing workflows.
+  - Helped run scalable persona simulations on Modal for parallel evaluation of website variants.
 
 - [**Meta-Mirage**](https://github.com/shashanksp04/MIRAGE-RAG) (September 2025 - May 2026)
   - Building a RAG agent with confidence-based retrieval. Retrieves information from a vector database, evaluates confidence, and performs web search when needed to gather additional context for queries.
