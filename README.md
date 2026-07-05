@@ -54,13 +54,13 @@ Overall, I’m passionate about building scalable AI systems and intelligent age
 
 ## 🚀 Projects
 
-- [**CallTree**]() (June 2026)
+- [**CallTree**](https://github.com/shashanksp04/yc-ai-growth-hackathon) (June 2026)
   - Developed CallTree as part of the AI Growth Hackathon by Orange Slice, a YC-backed hackathon focused on AI-powered growth and GTM workflows.
   - Built an AI sales-coaching platform that helps reps identify where deals changed direction and practice stronger responses.
   - Developed the backend audio pipeline using Python/librosa, MP3 upload handling, diarized transcription, and GPT-generated call trees.
   - Integrated ElevenLabs-powered dynamic voice/TTS for mock-call practice and guided walkthrough narration.
 
-- [**Converge**]() (June 2026)
+- [**Converge**](https://github.com/shashanksp04/yc-converge-personas-ab-testing) (June 2026)
   - Built Converge as part of the HUD Frontier / RSI RL Environments Hackathon, a YC-backed hackathon focused on frontier reinforcement learning environments. 
   - Designed an autonomous A/B-testing agent focused on persona setup, enabling simulated user evaluation of website variants.
   - Built Playwright-based interaction recording and Fireworks AI persona generation to create realistic testing workflows.
