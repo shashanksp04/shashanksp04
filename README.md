@@ -1,6 +1,6 @@
 # 👨‍💻 Shashank Pratap Singh
 
-📍 San Jose, CA | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
+📍 Chicago, IL | 📧 ShashankPSingh2112@gmail.com | 📱 (240) 927-9195 | 
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) |
 
 ## 👨‍🎓 About Shashank
@@ -144,7 +144,8 @@ Overall, I am passionate about building scalable AI systems and intelligent agen
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/29663349/Resume_Shashank_2026.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/31196585/Resume_Shashank_2027.pdf)
+
 
 
 
