@@ -4,23 +4,22 @@
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) |
 
 ## 👨‍🎓 About Shashank
-Hi, I’m Shashank Pratap Singh, a Master’s student in Computer Science at the University of Illinois Urbana-Champaign, and I previously completed my Bachelor’s in Computer Science at the University of Maryland with a 3.845 GPA.
+Hi, I’m Shashank Pratap Singh, a Master’s student in Computer Science at the University of Illinois Urbana-Champaign, and I previously completed my Bachelor’s in Computer Science at the University of Maryland.
 
-I’m particularly interested in the Agentic AI domain, autonomous systems, and scalable AI-driven software engineering. This summer, I’m working as a Software Engineer Intern at Adobe on the GenStudio for Performance Marketing team, where I contribute to the migration of core content infrastructure to a scalable, repository-agnostic platform, develop a content reuse pipeline that transforms flattened marketing assets into reusable, editable Adobe Express templates using computer vision and generative AI, and evaluate internal LLM optimization systems to improve the efficiency of AI-assisted software development. My work spans large-scale platform architecture, intelligent content workflows, and AI developer tooling, strengthening my interest in building scalable, intelligent software systems.
+I am particularly interested in Agentic AI, autonomous systems, and scalable AI-driven software. This summer, I worked as a Software Engineer Intern at Adobe on the GenStudio team, where I contributed to a repository-agnostic content platform migration; built a content reuse pipeline that converted flattened marketing images into editable Adobe Express templates using computer vision, image segmentation, and in-house gen-AI; and benchmarked LLM optimization systems. I also built a C2PA provenance tool that verified Content Credentials and cross-provider lineage in generated assets, along with a Claude skill that autonomously triaged and resolved PR-review bot feedback through iterative fixes and bot-specific formatters. My work spanned platform architecture, generative AI, content provenance, and agentic developer tooling.
 
-I have also worked on the MetaMIRAGE project at UIUC, where I developed a metadata-aware autonomous web agent for retrieval-augmented visual reasoning. Our system improved identification accuracy from 51.04% to 75.93% by integrating structured metadata into the reasoning pipeline. I also extended the agentic RAG architecture using the Google Agent Development Kit, adding web search capabilities, increasing agent autonomy, and conducting multi-model evaluations across Qwen, LLaMA, and Mistral to analyze reasoning failures and improve system robustness.
+I have also worked as Research Lead on the MetaMIRAGE project at UIUC, where I developed a metadata-aware autonomous web agent for retrieval-augmented visual reasoning. The system improved identification accuracy from 51.04% to 75.93% by integrating structured metadata into the reasoning pipeline. I also extended the agentic RAG architecture using the Google Agent Development Kit, adding web search capabilities, increasing agent autonomy, and conducting multi-model evaluations across Qwen, LLaMA, and Mistral to analyze reasoning failures and improve system robustness.
 
 Previously, I worked as a Developer Intern at LvlUp Ventures, where I designed and automated cross-platform workflows using JavaScript, Zapier, Airtable, and APIs, building scalable integrations that streamlined operations and reduced manual work across venture programs and internal systems.
 
-My broader experience spans full-stack development, AI systems, and automation. I’ve built MERN stack platforms, Android applications with Kotlin, AI-driven automation systems using Llama 3 and n8n, and retrieval-augmented generation pipelines that combine vector database retrieval with web search to improve response quality. I’ve also worked on program verification research by extending a CMSC 433 course-based Dafny replica with Hoare-logic-based verification for arrays.
+My broader experience spans full-stack development, AI systems, and automation. I have built MERN stack platforms, Android applications with Kotlin, AI-driven automation systems using Llama 3 and n8n, and retrieval-augmented generation pipelines that combine vector database retrieval with web search to improve response quality. I have also worked on program verification research by extending a CMSC 433 course-based Dafny replica with Hoare-logic-based verification for arrays.
 
-Beyond technical work, I’ve served as an Undergraduate Teaching Assistant at the University of Maryland, helping students understand programming languages, algorithms, and data structures through discussions and office hours.
-
-Overall, I’m passionate about building scalable AI systems and intelligent agents that solve real-world problems, particularly in areas like Fintech, EdTech, and Agrotech, and I’m excited to contribute to teams working on agentic AI, LLM systems, and next-generation autonomous software.
+Overall, I am passionate about building scalable AI systems and intelligent agents that solve real-world problems, and I am excited to contribute to teams working on agentic AI, LLM systems, and next-generation autonomous software.
 
 ## 🎓 Education
 - **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2027)**
-  - Master of Computer Science, Computer Science 
+  - Master of Computer Science, Computer Science
+  - Cumulative GPA: 3.81/4.0
 - **University of Maryland, College Park (UMD) (2022 - 2025)**
   - Bachelor of Science, Computer Science 
   - Minor, Technology Entrepreneurship and Corporate Innovation 
