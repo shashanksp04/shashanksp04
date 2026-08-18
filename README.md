@@ -19,7 +19,7 @@ Overall, I am passionate about building scalable AI systems and intelligent agen
 ## 🎓 Education
 - **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2027)**
   - Master of Computer Science, Computer Science
-  - Cumulative GPA: 3.81/4.0
+  - Cumulative GPA: 3.84/4.0
 - **University of Maryland, College Park (UMD) (2022 - 2025)**
   - Bachelor of Science, Computer Science 
   - Minor, Technology Entrepreneurship and Corporate Innovation 
@@ -144,7 +144,8 @@ Overall, I am passionate about building scalable AI systems and intelligent agen
 
 ## Resources
 - **Resume** :
-  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/31196585/Resume_Shashank_2027.pdf)
+  - Want to know more about me? Get a copy of my Resume from [here](https://github.com/user-attachments/files/31196828/Resume_Shashank_2027.pdf)
+
 
 
 
