@@ -65,10 +65,11 @@ Overall, I am passionate about building scalable AI systems and intelligent agen
   - Built Playwright-based interaction recording and Fireworks AI persona generation to create realistic testing workflows.
   - Helped run scalable persona simulations on Modal for parallel evaluation of website variants.
 
-- [**Meta-Mirage**](https://github.com/shashanksp04/MIRAGE-RAG) (September 2025 - May 2026)
-  - Building a RAG agent with confidence-based retrieval. Retrieves information from a vector database, evaluates confidence, and performs web search when needed to gather additional context for queries.
-  - Enhancing Query pipeline by integrating it with LLM inference workflows to automatically enhance user queries with retrieved context before sending them to test models, improving answer quality.
-  - Engineering multi-source knowledge ingestion. Supports ingesting content from PDFs and web pages into a ChromaDB vector database with deduplication, chunking, and metadata filtering for efficient retrieval.
+- [**Mirage-CARMA**](https://github.com/shashanksp04/MIRAGE-CARMA) (September 2025 - May 2026)
+  - Led development of a metadata-aware, autonomous RAG agent (Google ADK) for retrieval-augmented visual reasoning, improving identification accuracy from a 51.04% baseline to 75.93% through structured metadata-conditioned retrieval.
+  - Designed a confidence-scoring model combining similarity, coverage, consistency, and retrieval-scope signals to trigger autonomous web search and live content ingestion when retrieved evidence is insufficient.
+  - Built a priority-based retrieval strategy that selects among metadata filter combinations (location-derived hardiness zone, time, document identity) before falling back to semantic-only search, improving retrieval precision under sparse metadata.
+  - Migrated the vector retrieval backend from ChromaDB to a server-mode Qdrant deployment to eliminate concurrent-write corruption in multi-GPU batch inference, enabling safe scaling across parallel RAG workers
 
 - [**Illini2Illini — UIUC Short-Term Housing Marketplace**](https://github.com/shashanksp04/Illini2Illini) (March 2026 - April 2026)
   - Built a Next.js + TypeScript full-stack marketplace for UIUC students using Supabase Auth, PostgreSQL, Prisma ORM, and Supabase Storage, implementing server-side access control and domain-driven API architecture.
