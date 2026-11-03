@@ -26,12 +26,12 @@ Overall, I am passionate about building scalable AI systems and intelligent agen
   - Cumulative GPA: 3.845/4.0
 
 ## 💻 Skills
-- **Languages:** Python, Java, JavaScript, SQL, C, OCaml, Haskell, Kotlin
-- **Software Engineering:** Data Structures & Algorithms, Object-Oriented Design (OOP), Debugging
-- **AI / ML:** Retrieval-Augmented Generation (RAG), Google ADK, CrewAI, PyTorch, Hugging Face Transformers, CLIP,
-- **Data & Vector Databases:** pandas, NumPy, FAISS, Pinecone, ChromaDB, Matplotlib
-- **Cloud / Platforms:** Git, Github, Docker, CI/CD Pipelines
-- **Tools:** Cursor, Claude Code, Postman, VS Code, Android Studio
+- **Languages:** Python, Java, JavaScript, TypeScript, SQL, C, OCaml, Haskell, Kotlin
+- **Software Engineering:** Data Structures & Algorithms, Object-Oriented Design (OOP), Debugging, REST APIs, API Integration, Automated Testing, Playwright, FastAPI, Next.js
+- **AI / ML:** Retrieval-Augmented Generation (RAG), Google ADK, CrewAI, PyTorch, Hugging Face Transformers, CLIP, AI Agents, Vision-Language Models (VLMs), LiteLLM, SGLang
+- **Data & Vector Databases:** pandas, NumPy, FAISS, Pinecone, ChromaDB, Matplotlib, Qdrant, PostgreSQL, Supabase, Prisma, Apache Spark, PySpark, Hadoop, HDFS
+- **Cloud / Platforms:** Git, GitHub, Docker, CI/CD Pipelines, AWS, Modal
+- **Tools:** Cursor, Claude Code, Postman, VS Code, Android Studio, OpenAI Codex, GitHub Copilot, GDB, QEMU, Zapier, Airtable
 
 - **Certifications:**
     - AWS Cloud Practitioner Foundational (August 2024)
