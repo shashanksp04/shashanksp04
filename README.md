@@ -4,17 +4,17 @@
 🌐 [LinkedIn](www.linkedin.com/in/shashank-p-singh/) | 🐙 [GitHub](https://github.com/shashanksp04) |
 
 ## 👨‍🎓 About Shashank
-Hi, I’m Shashank Pratap Singh, a Master’s student in Computer Science at the University of Illinois Urbana-Champaign, and I previously completed my Bachelor’s in Computer Science at the University of Maryland.
+Hi, I’m Shashank Pratap Singh, a Master's student in Computer Science at the University of Illinois Urbana-Champaign, with a background in software engineering, AI systems, and research. I'm particularly interested in building scalable software systems and exploring how AI can be integrated into real-world applications.
 
-I am particularly interested in Agentic AI, autonomous systems, and scalable AI-driven software. This summer, I worked as a Software Engineer Intern at Adobe on the GenStudio team, where I contributed to a repository-agnostic content platform migration; built a content reuse pipeline that converted flattened marketing images into editable Adobe Express templates using computer vision, image segmentation, and in-house gen-AI; and benchmarked LLM optimization systems. I also built a C2PA provenance tool that verified Content Credentials and cross-provider lineage in generated assets, along with a Claude skill that autonomously triaged and resolved PR-review bot feedback through iterative fixes and bot-specific formatters. My work spanned platform architecture, generative AI, content provenance, and agentic developer tooling.
+Previously, I worked as a Software Engineer Intern at Adobe on the GenStudio team, where my work spanned platform engineering and applied AI. I contributed to a repository-agnostic content platform migration, built a multimodal pipeline that converts flattened marketing assets into editable Adobe Express templates, and developed tools for content provenance validation and automated PR-review workflows.
 
-I have also worked as Research Lead on the MetaMIRAGE project at UIUC, where I developed a metadata-aware autonomous web agent for retrieval-augmented visual reasoning. The system improved identification accuracy from 51.04% to 75.93% by integrating structured metadata into the reasoning pipeline. I also extended the agentic RAG architecture using the Google Agent Development Kit, adding web search capabilities, increasing agent autonomy, and conducting multi-model evaluations across Qwen, LLaMA, and Mistral to analyze reasoning failures and improve system robustness.
+At UIUC, I've been working on MIRAGE-CARMA, a metadata-aware autonomous RAG system for visual reasoning. My work involves designing retrieval strategies, confidence-driven web search, runtime knowledge ingestion, and multi-GPU inference infrastructure using Qdrant. Earlier iterations of this research improved identification accuracy from 51.04% to 75.93%.
 
-Previously, I worked as a Developer Intern at LvlUp Ventures, where I designed and automated cross-platform workflows using JavaScript, Zapier, Airtable, and APIs, building scalable integrations that streamlined operations and reduced manual work across venture programs and internal systems.
+Before that, at LvlUp Ventures, I designed automation systems and integrations that streamlined operations across venture programs, founder applications, and investment workflows.
 
-My broader experience spans full-stack development, AI systems, and automation. I have built MERN stack platforms, Android applications with Kotlin, AI-driven automation systems using Llama 3 and n8n, and retrieval-augmented generation pipelines that combine vector database retrieval with web search to improve response quality. I have also worked on program verification research by extending a CMSC 433 course-based Dafny replica with Hoare-logic-based verification for arrays.
+Outside of my professional and research experience, I enjoy building independent projects, experimenting with new technologies, and exploring different areas of computer science, from distributed systems and backend development to AI agents and developer tooling.
 
-Overall, I am passionate about building scalable AI systems and intelligent agents that solve real-world problems, and I am excited to contribute to teams working on agentic AI, LLM systems, and next-generation autonomous software.
+What interests me most is the engineering behind making an idea work, you know, like understanding the problem, designing the system, working through technical tradeoffs, and building something that is genuinely useful.
 
 ## 🎓 Education
 - **University of Illinois, Urbana-Champaign(UIUC) (2025 - 2027)**
